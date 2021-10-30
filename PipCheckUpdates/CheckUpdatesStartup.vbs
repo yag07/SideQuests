@@ -1,0 +1,1 @@
+CreateObject("Wscript.Shell").Run "C:\Users\YAG\Downloads\Code\SideQuests\SideQuests\PipCheckUpdates\CheckUpdatesStartup.bat", 0, True
